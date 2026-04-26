@@ -71,4 +71,4 @@ n8n (Workflow Orchestration)
 
 ---
 
-**Built in 2 days as part of an AI automation portfolio series.**
+**Production-ready voice booking automation**
